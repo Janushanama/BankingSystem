@@ -17,11 +17,12 @@ Bank Class
 FileWriter Class
 - This class manages account and transactions related detail insertion in file.
 - We can pass folder where we want to insert the data.
+- Currently, we are writing both files in [OutputFiles](src/OutputFiles) folder.
 
 
 Util File
-- This file has a method named get_random_account_number which helps to create random account number of given size
-
+- This file has a method named get_random_account_number which helps to create random account number of given size.
+- Currently, We are creating 4 digit account number.
 
 Main File
 - This file is for user interaction, A simple command-line interface to interact with the bank.

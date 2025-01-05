@@ -5,7 +5,7 @@ from Util import get_random_account_number
 
 def main():
     bank = Bank()
-    file_writer = FileWriter("/Users/janusha/Desktop")
+    file_writer = FileWriter("./OutputFiles/")
     account_num_size = 4
 
     print("Welcome to the Banking System!")
