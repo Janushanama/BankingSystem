@@ -32,5 +32,5 @@
 - This file has a method named get_random_account_number which helps to create random account number of given size.
 - Currently, We are creating 4 digits account number.
 
-** [Main](src/Main.py) File**
+**[Main](src/Main.py) File**
 - This python file is for user interaction, a simple command-line interface to interact with the bank.
