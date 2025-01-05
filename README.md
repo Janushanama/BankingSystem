@@ -14,7 +14,7 @@
 
 **[Account](src/Account.py) Class**
 - Each bank account will be an instance of this class.
-- This class has method for Methods for logging, depositing, withdrawing, checking balance and displaying account info.
+- This class has methods for logging, depositing, withdrawing, checking balance and displaying account info.
 
 
 **[Bank](src/Bank.py) Class**
