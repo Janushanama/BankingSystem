@@ -1,5 +1,14 @@
 Banking System
-Banking System that allows users to create accounts, perform banking transactions, and manage their finances.
+- Banking System that allows users to create accounts, perform banking transactions, and manage their finances.
+- This system provide following functionalities:
+  1. Create Account 
+  2. Login 
+  3. Check Balance 
+  4. Deposit Money
+  5. Withdraw Money
+  6. Display All Accounts
+  7. Exit
+
 
 
 Python Environment
